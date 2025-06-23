@@ -2,13 +2,11 @@ import { useState } from "react";
 import {
   ArrowLeft,
   User,
-  // Heart,
   Activity,
   Scale,
-  // TestTube,
+  TestTube,
   Baby,
   Dna,
-  TrendingUp,
 } from "lucide-react";
 
 import { useNavigate } from "react-router-dom";
