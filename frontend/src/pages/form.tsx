@@ -2,10 +2,10 @@ import { useState } from "react";
 import {
   ArrowLeft,
   User,
-  Heart,
+  // Heart,
   Activity,
   Scale,
-  TestTube,
+  // TestTube,
   Baby,
   Dna,
   TrendingUp,
